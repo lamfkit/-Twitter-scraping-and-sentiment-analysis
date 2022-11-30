@@ -7,7 +7,7 @@
 
 
 ## What we done
-We use Scweet which is an 3rd party tool for scraping data from Twitter but it is also fine with Tweepy
+We use Scweet which is an 3rd party tool for scraping data from Twitter but it is also fine with Tweepy.\
 We built ETL process by automating extraction of Twitter data, transform the data for analysis and loading the data to PostgreSQL database. End user can subscribe to receive daily sentiment anlysis visualization on a given topic.
 
 Special thanks to https://github.com/Altimis/Scweet
